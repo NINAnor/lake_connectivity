@@ -14,6 +14,10 @@ network data.
 
 Make sure that these are installed on your system.
 
+Connection information for accessing the required PostgreSQL database are taken from a password file
+([.pgpass](https://www.postgresql.org/docs/9.3/libpq-pgpass.html)) that resides in the users home
+directory.
+
 ## Functionality
 
 ### Processing sections
